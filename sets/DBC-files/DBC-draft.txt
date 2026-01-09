@@ -1,0 +1,16 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Outcaster Greenblade",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://mse-hub-yue/sets/DBC-files/img/0.jpg"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Outcaster Greenblade
